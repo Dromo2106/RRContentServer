@@ -15,4 +15,5 @@ def build():
 
 app = gui("RRS 4.0")
 app.addButton("New",new)
+app.addButton("start",start)
 app.go()

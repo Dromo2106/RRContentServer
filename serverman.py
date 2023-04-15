@@ -1,6 +1,7 @@
-import os
 import subprocess
-
-print("Loading System")
-input("Please Enter a good server Name")
-subprocess.run(["mkdocs","new"])
+import os
+name=input("Enter New Name:")
+subprocess.run(["mkdocs","new", name])
+os.chdir(name)
+print("done")
+subprocess.run(["mkdocs","serve"])

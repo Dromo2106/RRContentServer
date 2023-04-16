@@ -9,6 +9,9 @@ Use this link to download this car it is recommended that you use Content Manage
 ### Audi R8
 [Download](https://mega.nz/file/UPYmTRjA#KQ5HWboz9FA2VbXnS00950i5m2fpiqIsptEWrg-wusE)
 
+### Jaguar XKR
+[Download](https://mega.nz/file/hXxBQSgL#KVVmrTVZtcg1Z5RxlE35Zs9U68XeO-I_6y43DxRuxiU)
+
 ## Mods
 ### CSP 1.8 Preview
 [Download](content/csp.zip)

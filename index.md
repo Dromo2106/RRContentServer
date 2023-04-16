@@ -12,6 +12,8 @@ Use this link to download this car it is recommended that you use Content Manage
 ### Jaguar XKR
 [Download](https://mega.nz/file/hXxBQSgL#KVVmrTVZtcg1Z5RxlE35Zs9U68XeO-I_6y43DxRuxiU)
 
+### Lexus LFA
+[Download](https://www.mediafire.com/file/eqrhyqxoq7r8m6h/Lexus_LFA_Pack_V1.1.zip/file)
 ## Mods
 ### CSP 1.8 Preview
 [Download](content/csp.zip)

@@ -22,7 +22,27 @@ One of if not the best sounding cars of all time with the amazing sounding 5.2L 
 ### Jaguar XKR
 [Download](https://mega.nz/file/hXxBQSgL#KVVmrTVZtcg1Z5RxlE35Zs9U68XeO-I_6y43DxRuxiU)
 
+### Mercedes-Benz GT
+[Download](https://mega.nz/file/9MhRUQaD#HX6vGD6MqmRE3MmC6Eb9vriGTDi3lE1eZsB97Engcdk)
 
+### Maserati MC12
+**Car Info**
+**Year:** 2004
+**Country:** Italy
+[Download](https://mega.nz/file/AeJTiKzD#1Bm3ZNeKmbIc0lCoFqFir6cJac3b7C9FN97RR8vipcA)
+
+### Porsche 911 GT3
+**Info**
+**Year:** 2021
+
+[Download](https://drive.google.com/file/d/13yxpWatKEAGSjJ6vr9mk2kHf53uytoVJ/view?usp=sharing)
+### Audi RS4 Avant
+**Info**
+**Year:** 2001
+[Download](https://www.mediafire.com/file/l3hjvkpjcor8ud7/audi_rs4_avant_b5_2001_1.0.rar/file)
+
+### Mercedes SL50
+[Download](https://drive.google.com/file/d/1HDCcBHFPdYHlEM_t6RYfJbgRg8d7qn9q/view?usp=share_link)
 ## Mods
 ### CSP 1.8 Preview
 [Local Download](content/csp.zip) 
@@ -45,3 +65,8 @@ Custom Shaders Patch 1.8 P Allows you to add the functionality to add rain FX an
 ### Tsubaki Line
 [Download](https://sharemods.com/j1gkps7vhx84/ek_tsubaki_line.rar.html)
 
+### Rally De Catalunya
+[Download](https://www.racedepartment.com/downloads/rally-de-catalunya-coll-de-la-teixeta-shakedown-2021.38091/)
+## Creators
+### Want to submit something you made
+*For now we can not accept but we will in the future have a submittion form open for those who want to submit content*

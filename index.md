@@ -19,6 +19,9 @@ Use this link to download this car it is recommended that you use Content Manage
 ### Lexus LFA
 [Download](https://www.mediafire.com/file/eqrhyqxoq7r8m6h/Lexus_LFA_Pack_V1.1.zip/file)
 One of if not the best sounding cars of all time with the amazing sounding 5.2L V10.  The car is known for being Jeremy Clarkson's favorite car.
+### Jaguar XKR
+[Download](https://mega.nz/file/hXxBQSgL#KVVmrTVZtcg1Z5RxlE35Zs9U68XeO-I_6y43DxRuxiU)
+
 
 ## Mods
 ### CSP 1.8 Preview
@@ -37,4 +40,8 @@ Custom Shaders Patch 1.8 P Allows you to add the functionality to add rain FX an
 
 ### Top Gear Test Track
 [AC Content Manager](acmanager://install?url=https%3A%2F%2Ffiles.assettocorsaclub.com%2Ffile%2Facclub-files%2Fd4b240%2Ftopgear101.zip)
-[Download]
+
+
+### Tsubaki Line
+[Download](https://sharemods.com/j1gkps7vhx84/ek_tsubaki_line.rar.html)
+

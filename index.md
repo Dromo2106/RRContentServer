@@ -18,36 +18,50 @@ To use this website in assetto corsa content manager please enter the link of th
 
 ## Cars
 ### Audi
-[R8 (2008)](https://mega.nz/file/UPYmTRjA#KQ5HWboz9FA2VbXnS00950i5m2fpiqIsptEWrg-wusE)
+|Link|Car|Year|
+|:-:|:-:|:-:|
+[Download](https://mega.nz/file/UPYmTRjA#KQ5HWboz9FA2VbXnS00950i5m2fpiqIsptEWrg-wusE)| R8 | 2008|
+[Download](https://www.mediafire.com/file/l3hjvkpjcor8ud7/audi_rs4_avant_b5_2001_1.0.rar/file)|RS4 Avant|2001
 ### BMW
+|Link|Car|Year|
+|:-:|:-:|:-:|
 [730i](https://drive.google.com/file/d/1xmjlgEdj_i79IhSaH_-h1TfjVQYUwXlb/view)
 ### Ferrari
-[F8](content/rollovers_ferrari_f8_tributo.rar)
-Use this link to download this car it is recommended that you use Content Manager.
+|Link|Car|Year|
+|:-:|:-:|:-:|
+[F8](content/rollovers_ferrari_f8_tributo.rar)| F8 |2023|
+[F50](https://mega.nz/file/e3Jj3Qya#rhdu23YhbSuKnrT2wziZBg_yt87N9kuCFvQW59wi_Lo)|F50|1995|
+
 ### Porsche
-[996 cup](https://www.mediafire.com/file/cx599opyji00x2o/porsche_996_cup_2004_1.0.rar/file)
-[GT3 RS](https://drive.google.com/file/d/13yxpWatKEAGSjJ6vr9mk2kHf53uytoVJ/view?usp=sharing)
+|Link|Car|Year|
+|:-:|:-:|:-:|
+[996 cup](https://www.mediafire.com/file/cx599opyji00x2o/porsche_996_cup_2004_1.0.rar/file)|911 GT3|2004|
+[GT3 RS](https://drive.google.com/file/d/13yxpWatKEAGSjJ6vr9mk2kHf53uytoVJ/view?usp=sharing)|GT3 RS|2023|
 
 ### Lexus
+|Link|Car|Year|
+|:-:|:-:|:-:|
 [LFA](https://www.mediafire.com/file/eqrhyqxoq7r8m6h/Lexus_LFA_Pack_V1.1.zip/file)
-One of if not the best sounding cars of all time with the amazing sounding 5.2L V10.  The car is known for being Jeremy Clarkson's favorite car.
 ### Jaguar
+|Link|Car|Year|
+|:-:|:-:|:-:|
 [XK-R](https://mega.nz/file/hXxBQSgL#KVVmrTVZtcg1Z5RxlE35Zs9U68XeO-I_6y43DxRuxiU)
 
 ### Mercedes-Benz
-[AMG GT](https://mega.nz/file/9MhRUQaD#HX6vGD6MqmRE3MmC6Eb9vriGTDi3lE1eZsB97Engcdk)
-[SL50](https://drive.google.com/file/d/1HDCcBHFPdYHlEM_t6RYfJbgRg8d7qn9q/view?usp=share_link)
+|Link|Car|Year|
+|:-:|:-:|:-:|
+[Download](https://mega.nz/file/9MhRUQaD#HX6vGD6MqmRE3MmC6Eb9vriGTDi3lE1eZsB97Engcdk)|GT|x|
+[Download](https://drive.google.com/file/d/1HDCcBHFPdYHlEM_t6RYfJbgRg8d7qn9q/view?usp=share_link)|GT|x|
 ### Maserati
-[MC12 (2004)](https://mega.nz/file/AeJTiKzD#1Bm3ZNeKmbIc0lCoFqFir6cJac3b7C9FN97RR8vipcA)
+|Link|Car|Year|
+|:-:|:-:|:-:|
+[Download](https://mega.nz/file/AeJTiKzD#1Bm3ZNeKmbIc0lCoFqFir6cJac3b7C9FN97RR8vipcA)|-|-|
 
-
-### Audi RS4 Avant
-**Info**
-**Year:** 2001
-[RS4 Avant (2001)](https://www.mediafire.com/file/l3hjvkpjcor8ud7/audi_rs4_avant_b5_2001_1.0.rar/file)
-
-### Mercedes SL50
-[SL50](https://drive.google.com/file/d/1HDCcBHFPdYHlEM_t6RYfJbgRg8d7qn9q/view?usp=share_link)
+### VW
+|Link|Car|Year|
+|:-:|:-:|:-:|
+|[DOWNLOAD](https://drive.google.com/file/d/1QtUvNzu0M9MG83BNM2VCNv2NYcGm3Jbk/view?usp=share_link)| MK6 Golf GTI | 2004
+|Nothing||
 
 ## Mods
 ### CSP 1.8 Preview

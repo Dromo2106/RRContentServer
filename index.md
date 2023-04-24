@@ -78,25 +78,18 @@ SOL allows for a real weather simulation to be added to the game while the base 
 Adds `ctrl+b `command to send driver back to the pits.
 
 ## Tracks
-### LeMans
-**Location:** Le Mans France
-Home to the 24 hours of LeMans
-[Download](https://www.racedepartment.com/downloads/circuit-24h-lemans.2482/download)
-### Long Beach GP
-Home to the Long Beach Grand Prix
-[Download](https://mega.nz/file/ugRy3RDI#Q_hpKjfS1k_bPFmO5dMNDa91Fh6EXD0uQmjKf0IH4PU)
 
-### Mt. Akina
-[Download](https://drive.google.com/file/d/1QT7TpMaD4md6f4yQ0yLuOmodyNvI7k0o/view)
+|Link 2 Down|Track Name|City|Country|
+|:-:|:-:|:-:|:-:|
+|[DWN](https://www.mediafire.com/file/pkgf0bksgib8yn0/rt_california_highway.7z/file)| California Highway | |US|
+|[DWN](https://sharemods.com/j1gkps7vhx84/ek_tsubaki_line.rar.html)|Tsubaki Line||Japan|
+|[DWN](acmanager://install?url=https%3A%2F%2Ffiles.assettocorsaclub.com%2Ffile%2Facclub-files%2Fd4b240%2Ftopgear101.zip)|Top Gear Test Track|Dunsfold|UK (England)|
+|[DWN](https://drive.google.com/file/d/1QT7TpMaD4md6f4yQ0yLuOmodyNvI7k0o/view)|Mt Akina|Akina|Japan|
+|[DWN](https://mega.nz/file/ugRy3RDI#Q_hpKjfS1k_bPFmO5dMNDa91Fh6EXD0uQmjKf0IH4PU)|Long Beach GP|Long Beach|US|
+|[DWN](https://www.racedepartment.com/downloads/circuit-24h-lemans.2482/download)|24 Hours of LeMans|Le Mans|France|
+|[DWN](https://www.racedepartment.com/downloads/rally-de-catalunya-coll-de-la-teixeta-shakedown-2021.38091/)|Rally De Catalunya|||
+|
 
-### Top Gear Test Track
-[AC Content Manager](acmanager://install?url=https%3A%2F%2Ffiles.assettocorsaclub.com%2Ffile%2Facclub-files%2Fd4b240%2Ftopgear101.zip)
-
-### Tsubaki Line
-[Download](https://sharemods.com/j1gkps7vhx84/ek_tsubaki_line.rar.html)
-
-### Rally De Catalunya
-[Download](https://www.racedepartment.com/downloads/rally-de-catalunya-coll-de-la-teixeta-shakedown-2021.38091/)
 ## Creators
 ### Want to submit something you made
 *For now we can not accept but we will in the future have a submittion form open for those who want to submit content*

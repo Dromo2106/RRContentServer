@@ -1,5 +1,13 @@
 # Rogue Racing Custom Content
+
 ## Prolougue
+This is the table of contents for the website use the topic bar above to search for specific categories.
+### Table Of Contents
+1. [Example](##Prolouge)
+2. [Cars](#Cars)
+3. [Mods](#Mods)
+4. [Tracks](#Tracks)
+### Prolougue
 This is the table of contents for the website use the topic bar above to search for specific categories.
 
 ### Help
@@ -9,50 +17,59 @@ To use this website in assetto corsa content manager please enter the link of th
 [FrostieStudios Website](https://frostiestudios.github.io)
 
 ## Cars
-### Ferrari F8
-[Download](content/rollovers_ferrari_f8_tributo.rar)
+### Audi
+[R8 (2008)](https://mega.nz/file/UPYmTRjA#KQ5HWboz9FA2VbXnS00950i5m2fpiqIsptEWrg-wusE)
+### BMW
+[730i](https://drive.google.com/file/d/1xmjlgEdj_i79IhSaH_-h1TfjVQYUwXlb/view)
+### Ferrari
+[F8](content/rollovers_ferrari_f8_tributo.rar)
 Use this link to download this car it is recommended that you use Content Manager.
+### Porsche
+[996 cup](https://www.mediafire.com/file/cx599opyji00x2o/porsche_996_cup_2004_1.0.rar/file)
+[GT3 RS](https://drive.google.com/file/d/13yxpWatKEAGSjJ6vr9mk2kHf53uytoVJ/view?usp=sharing)
 
-### Audi R8
-[Download](https://mega.nz/file/UPYmTRjA#KQ5HWboz9FA2VbXnS00950i5m2fpiqIsptEWrg-wusE)
-
-### Lexus LFA
-[Download](https://www.mediafire.com/file/eqrhyqxoq7r8m6h/Lexus_LFA_Pack_V1.1.zip/file)
+### Lexus
+[LFA](https://www.mediafire.com/file/eqrhyqxoq7r8m6h/Lexus_LFA_Pack_V1.1.zip/file)
 One of if not the best sounding cars of all time with the amazing sounding 5.2L V10.  The car is known for being Jeremy Clarkson's favorite car.
-### Jaguar XKR
-[Download](https://mega.nz/file/hXxBQSgL#KVVmrTVZtcg1Z5RxlE35Zs9U68XeO-I_6y43DxRuxiU)
+### Jaguar
+[XK-R](https://mega.nz/file/hXxBQSgL#KVVmrTVZtcg1Z5RxlE35Zs9U68XeO-I_6y43DxRuxiU)
 
-### Mercedes-Benz GT
-[Download](https://mega.nz/file/9MhRUQaD#HX6vGD6MqmRE3MmC6Eb9vriGTDi3lE1eZsB97Engcdk)
+### Mercedes-Benz
+[AMG GT](https://mega.nz/file/9MhRUQaD#HX6vGD6MqmRE3MmC6Eb9vriGTDi3lE1eZsB97Engcdk)
+[SL50](https://drive.google.com/file/d/1HDCcBHFPdYHlEM_t6RYfJbgRg8d7qn9q/view?usp=share_link)
+### Maserati
+[MC12 (2004)](https://mega.nz/file/AeJTiKzD#1Bm3ZNeKmbIc0lCoFqFir6cJac3b7C9FN97RR8vipcA)
 
-### Maserati MC12
-**Car Info**
-**Year:** 2004
-**Country:** Italy
-[Download](https://mega.nz/file/AeJTiKzD#1Bm3ZNeKmbIc0lCoFqFir6cJac3b7C9FN97RR8vipcA)
 
-### Porsche 911 GT3
-**Info**
-**Year:** 2021
-
-[Download](https://drive.google.com/file/d/13yxpWatKEAGSjJ6vr9mk2kHf53uytoVJ/view?usp=sharing)
 ### Audi RS4 Avant
 **Info**
 **Year:** 2001
-[Download](https://www.mediafire.com/file/l3hjvkpjcor8ud7/audi_rs4_avant_b5_2001_1.0.rar/file)
+[RS4 Avant (2001)](https://www.mediafire.com/file/l3hjvkpjcor8ud7/audi_rs4_avant_b5_2001_1.0.rar/file)
 
 ### Mercedes SL50
-[Download](https://drive.google.com/file/d/1HDCcBHFPdYHlEM_t6RYfJbgRg8d7qn9q/view?usp=share_link)
+[SL50](https://drive.google.com/file/d/1HDCcBHFPdYHlEM_t6RYfJbgRg8d7qn9q/view?usp=share_link)
+
 ## Mods
 ### CSP 1.8 Preview
 [Local Download](content/csp.zip) 
 *Pre-Packaged in the website directly no need to go to other windows or tabs*
 Custom Shaders Patch 1.8 P Allows you to add the functionality to add rain FX and Light FX to grately enhance the graphics and gameplay.
 
+### SOL 2.7
+[Local Download]()
+SOL allows for a real weather simulation to be added to the game while the base game does not support weather.  SOL allows for driving in the rain.
 
+### Shortcut Extension
+[Local Download](content/shortcut.zip)
+Adds `ctrl+b `command to send driver back to the pits.
 
 ## Tracks
+### LeMans
+**Location:** Le Mans France
+Home to the 24 hours of LeMans
+[Download](https://www.racedepartment.com/downloads/circuit-24h-lemans.2482/download)
 ### Long Beach GP
+Home to the Long Beach Grand Prix
 [Download](https://mega.nz/file/ugRy3RDI#Q_hpKjfS1k_bPFmO5dMNDa91Fh6EXD0uQmjKf0IH4PU)
 
 ### Mt. Akina
@@ -60,7 +77,6 @@ Custom Shaders Patch 1.8 P Allows you to add the functionality to add rain FX an
 
 ### Top Gear Test Track
 [AC Content Manager](acmanager://install?url=https%3A%2F%2Ffiles.assettocorsaclub.com%2Ffile%2Facclub-files%2Fd4b240%2Ftopgear101.zip)
-
 
 ### Tsubaki Line
 [Download](https://sharemods.com/j1gkps7vhx84/ek_tsubaki_line.rar.html)
@@ -70,3 +86,14 @@ Custom Shaders Patch 1.8 P Allows you to add the functionality to add rain FX an
 ## Creators
 ### Want to submit something you made
 *For now we can not accept but we will in the future have a submittion form open for those who want to submit content*
+
+### Have an idea for the site
+*Form Live Soon*
+
+## Contacts
+Discord Server
+[Email](frostiestudios@proton.me)
+[Website](https://frostiestudios.github.io)
+
+Designed By Matthew Winer
+Frostie Studios
